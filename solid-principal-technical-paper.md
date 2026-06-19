@@ -336,5 +336,5 @@ The SOLID principles form the foundation of modern object-oriented software desi
 
 # References
 
-1. DigitalOcean
-2. Youtube
+1. [DigitalOcean] (https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+2. [Youtube] (https://www.youtube.com/playlist?list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme)
