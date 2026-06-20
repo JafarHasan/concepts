@@ -18,10 +18,10 @@ How professor Barbara Oakley transformed herself from a self-proclaimed math fai
 
 ### 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 
-1. Deconstruct the skill.
-2. Learn enough to self-correct.
-3. Remove practice barriers
-4. Practice for at least 20 hours.
+- Deconstruct the skill.
+- Learn enough to self-correct.
+- Remove practice barriers
+- Practice for at least 20 hours.
 
 ### 5. What are some of the actions you can take going forward to improve your learning process?
 
