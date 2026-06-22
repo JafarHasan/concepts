@@ -4,7 +4,7 @@
 
 Feynman Technique is a process of five steps to learn any concept deeply.
 
-**Learn → Teach → Find Gaps → Relearn → Simplify**
+**Learn => Teach => Find Gaps => Relearn => Simplify**
 
 ### 2. In this video, what was the most interesting story or idea for you?
 
@@ -12,8 +12,7 @@ How professor Barbara Oakley transformed herself from a self-proclaimed math fai
 
 ### 3. What are active and diffused modes of thinking?
 
-**Focused Mode** = Deep concentration. Used when learning, solving coding questions, doing math, or debugging.
-
+**Focused Mode** = Deep concentration. Used when learning, solving coding questions, doing math, or debugging.<br>
 **Diffused Mode** = Background processing and connecting ideas. Relaxed, broad thinking where the brain makes connections in the background.
 
 ### 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
